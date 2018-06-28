@@ -1,0 +1,15 @@
+* {
+  -webkit-font-smoothing: antialiased;
+}
+
+body, html {
+  background: #363636;
+}
+
+#head {
+  min-height: 70px;
+}
+
+.row-buttons {
+  line-height: 40px;
+}
